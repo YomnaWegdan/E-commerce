@@ -1,0 +1,25 @@
+.navbar input{
+    width: 500px !important;
+    border: 3px solid #0D6EFD;
+    border-radius: 0px !important;
+
+}
+.navbar button{
+    margin-left: -24px;
+    border-radius: 0px !important;
+    height: 41px;
+}
+@media (max-width:767px) {
+    .navbar button{
+        margin-left: 0;
+        margin:  16px  0 4px 0;
+    }
+    .navbar input{
+        width: 300px;
+    }
+    
+    
+}
+.navbar svg{
+    color: #0D6EFD;
+}

@@ -1,0 +1,53 @@
+.top_banner
+{
+    padding: 30px 40px;
+    width: 100%;
+    background: #e3edf6;
+}
+.top_banner .container .detail
+{
+    margin-top: 8%;
+}
+.top_banner .container .detail h2
+{
+    font-size: 52px;
+    color: #010f1c;
+    margin-right: 50%;
+    margin-bottom: 40px;
+}
+.top_banner .container .detail .link
+{
+    text-decoration: none;
+    border-radius: 5px;
+    color:#010f1c;
+    background: #fff;
+    transition: 0.5s;
+}
+.top_banner .container .detail .link:hover
+{
+    background: #0989ff;
+    color: #fff;
+}
+.top_banner .container .detail button{
+    border: 1px solid white;
+    background-color: white;
+    height: 50px;
+    width: 126px;
+}
+.top_banner .container .img_box img{
+    max-width: 300px;
+    min-width: 100px;
+}
+.product_type .container .box .detail p
+{
+    margin-top: 10px;
+    color: #9a9a9a;
+}
+@media (max-width:1000px) {
+    .top_banner .container .img_box img{
+        width: 420px !important;
+    }
+
+    
+}
+

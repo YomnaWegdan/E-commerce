@@ -1,0 +1,14 @@
+.footer{
+    background: #e3edf6;
+    padding: 60px;
+    text-align: start;
+}
+.footer .detail .icon{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+.footer .detail .icon li{
+
+}

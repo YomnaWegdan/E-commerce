@@ -1,0 +1,40 @@
+.footer{
+    background: #e3edf6;
+    padding: 60px;
+    text-align: start;
+}
+.footer .detail .icon{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+.footer .detail .icon li a {
+    margin-right: 10px;
+    border: 1px solid white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10px;
+    border-radius: 6px;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+.footer .detail .icon li a:hover{
+    background-color: #0989ff;
+    color: white;
+    border: 1px solid #0989ff;
+    transition: 0.5s;
+
+
+}
+.footer .account li a{
+    c
+
+}
+
+.footer .account li:hover , .footer .page li:hover{
+    color: #0989ff;
+    cursor: pointer;
+    transition: 0.5s;
+
+
+}

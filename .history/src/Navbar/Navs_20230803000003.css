@@ -1,0 +1,14 @@
+.navbar input{
+    width: 500px !important;
+    border: 3px solid #0D6EFD;
+    border-radius: 0px !important;
+
+}
+.navbar button{
+    margin-left: -24px;
+    border-radius: 0px !important;
+    height: 41px;
+}
+.navbar svg{
+    
+}
