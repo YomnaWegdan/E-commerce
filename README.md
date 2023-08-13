@@ -1,3 +1,30 @@
+# Build and Deploy a Modern E-Commerce
+![Captureee](https://github.com/YomnaWegdan/E-commerce/assets/101523679/44e3bc8d-bc73-46dc-8cf3-e808f67869f7)
+## Features:
+#### Home 
+#### Products
+#### Contact Us 
+#### Search
+#### Product Details
+#### Cart
+#### Favorite
+#### Login , Sign Out
+
+
+
+## Built with:
+#### React 
+#### BootStrap
+#### Firebase
+#### Auth0
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
