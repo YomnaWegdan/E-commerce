@@ -14,6 +14,7 @@
 
 ## Built with:
 #### React 
+#### CSS
 #### BootStrap
 #### Firebase
 #### Auth0
